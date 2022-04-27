@@ -5,4 +5,6 @@ Task2-->Convert the pixel of gray scale image to either 1 or 0.
 Task3-->Add gray image and image with pixels either 1 or 0 and add 20 to gray scale image.
 Performe the task and display the output images.
 
-
+Assignment2:
+Task-->Read a color image,convert the color image to gray scale and dispaly both images.
+Make some part of that gray scale image total black and display it.Now subtract this to images andd display output image.
