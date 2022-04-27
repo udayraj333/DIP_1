@@ -14,3 +14,12 @@ Task: Create two images one with a white circle at center and another with a whi
 
 Assignment4:
 Task: Read a color image and display its reddish,greenisg and bluish image
+
+Assignment5:
+Task: Read a color image,convert the color image to gray scale and performe histogram equalization by algorithm discussed in class.
+
+Assignment6:
+Task: Read a color image,convert the color image to gray scale and do contrast maniplution.
+
+Assignment7:
+Task: Read a color image and perform bit slicing for 8 planes on it.
