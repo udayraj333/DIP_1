@@ -6,8 +6,11 @@ Task3-->Add gray image and image with pixels either 1 or 0 and add 20 to gray sc
 Performe the task and display the output images.
 
 Assignment2:
-Task-->Read a color image,convert the color image to gray scale and dispaly both images.
+Task: Read a color image,convert the color image to gray scale and dispaly both images.
 Make some part of that gray scale image total black and display it.Now subtract this to images andd display output image.
 
 Assignment3:
 Task: Create two images one with a white circle at center and another with a white rentangle at center and performe all logical gate operations on both images and display the output images.
+
+Assignment4:
+Task: Read a color image and display its reddish,greenisg and bluish image
