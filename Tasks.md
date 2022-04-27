@@ -23,3 +23,12 @@ Task: Read a color image,convert the color image to gray scale and do contrast m
 
 Assignment7:
 Task: Read a color image and perform bit slicing for 8 planes on it.
+
+Assignment8:
+Task: Read a color image and do contrast maniplulation of the image
+
+Assignment9: Histogram streching
+Task: There are two methods of enhancing contrast. The first one is called Histogram stretching that increase contrast.
+
+Assignment10: Histogram Specification
+Task: In image processing, histogram matching or histogram specification is the transformation of an image so that its histogram matches a specified histogram.
